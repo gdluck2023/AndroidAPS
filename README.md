@@ -2,9 +2,7 @@
 软件遵循GPL V3协议，是完全开源免费的，但开发者写代码、维护需要投入大量时间精力。
 大家的支持是项目得以延续的动力。
 支持码农哥加的功能，请点击以下链接(Sponsor)或者扫码。
-
 https://afdian.com/a/manong
-
 <a href="/Documentation/donation.jpg"><img src="/Documentation/donation.jpg?raw=true" alt="Donation" width="300"></a>
 
 ## How to Build
@@ -61,3 +59,4 @@ Please follow these steps:
   `KEY_ALIAS`, `KEY_PASSWORD`, `STORE_FILE`, `STORE_PASSWORD`，这些变量的值都在群中。
 * 在Github Actions中触发编译
 * 下载`Artifacts`中的编译产物`aaps.zip`
+* 
