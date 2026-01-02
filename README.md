@@ -7,8 +7,6 @@ https://afdian.com/a/manong
 
 ## How to Build
 ## 如何编译
-
-
 ### If your are familiar with Android development:
 * Fork this repository.
 * Replace `keystore/demokeystore.jks` with your own key store file.
@@ -60,4 +58,4 @@ Please follow these steps:
   `KEY_ALIAS`, `KEY_PASSWORD`, `STORE_FILE`, `STORE_PASSWORD`，这些变量的值都在群中。
 * 在Github Actions中触发编译
 * 下载`Artifacts`中的编译产物`aaps.zip`
-* 
+  
